@@ -2,7 +2,7 @@
 
 <h3 title="hehehe"> Hey 👋, I'm Pawww!</h3>
 
-<a href="https://www.instagram.com/__.pawww>
+<a href="https://www.instagram.com/__.pawww">
   <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://twitter.com/zPawww">
