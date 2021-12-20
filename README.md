@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 <h3 title="hehehe"> Hey 👋, I'm Jaskirat!</h3>
 
 <a href="https://www.linkedin.com/in/jaskirat-singh-009348178">
