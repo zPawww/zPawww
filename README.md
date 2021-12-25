@@ -26,7 +26,7 @@ A ** PYTHON STUDENT ** *** Enthusiastic *** 🚀.
 - 🌱 I'm currently exploring PYTHON with a big interest in python applets and software.
 - 🤔 My interest lies in the development of programs and games.
 - 💬 Ask me about anything, I love to answer!
-- 📫 contact me through my discord server <a href="https://discord.gg/XfUXsZ6t">https://discord.gg/XfUXsZ6t
+- 📫 contact me through my discord server <a href="https://discord.gg/re6Kq78W8S">https://discord.gg/re6Kq78W8S
 
 
 
