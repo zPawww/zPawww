@@ -15,7 +15,7 @@
 <br />
 <br />
 
-A ** PYTHON STUDENT ** *** Enthusiastic *** 🚀.
+A ** JAVASCRIPT STUDENT ** *** Enthusiastic *** 🚀.
  
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
@@ -23,16 +23,17 @@ A ** PYTHON STUDENT ** *** Enthusiastic *** 🚀.
 **About Me!**
 
 - 👨🏽‍💻 I am currently a student.
-- 🌱 I'm currently exploring PYTHON with a big interest in python applets and software.
+- 🌱 I am currently exploring JAVASCRIPT with great interest for its huge libraries.
 - 🤔 My interest lies in the development of programs and games.
 - 💬 Ask me about anything, I love to answer!
-- 📫 contact me through my discord server <a href="https://discord.gg/re6Kq78W8S">https://discord.gg/re6Kq78W8S
+- 📫 contact me through my gmail: pawwwx123@gmail.com
 
 
 
 **Languages and Tools:**  
 
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
